@@ -8,7 +8,7 @@ export const CartWidget = () => {
     <>
 
 
-    <div>
+    <div className='div-CartWidget'>
     <ion-icon name="cart-outline">
     </ion-icon>
     <span className='a'>5</span>

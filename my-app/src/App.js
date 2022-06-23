@@ -1,13 +1,13 @@
 
 import './App.css';
+import ItemListContainer from './components/ItemListContainer';
 import Navbar from './components/Navbar';
-import CartWidget from './components/CartWidget'
 
 function App() {
   return (
   <>
     <Navbar />
-
+    <ItemListContainer />
   </>
   );
 }

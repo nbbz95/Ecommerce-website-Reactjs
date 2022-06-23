@@ -1,6 +1,8 @@
+/* eslint-disable jsx-a11y/alt-text */
 import './Navbar.css';
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import logo from '../aseets/img/logo.png';
 
 
 
@@ -10,18 +12,20 @@ import CartWidget from './CartWidget';
 
 function Navbar() {
   return (
-
+    <>
     <div className="container">
-  <nav className="navbar navbar-expand-lg bg-dark">
-    <div className="container-fluid">
-    <CartWidget/>
-    <a className="link-light" link="#">Home</a>
-    <a className="link-light" link="#">FunkoPOP</a>
-    <a className="link-light" link="#">Mangas</a>
-    <a className="link-light" link="#">Figuras</a>
-    </div>
-  </nav>
-</div>
+        <nav className="navbar navbar-expand-lg bg-dark">
+          <div className="container-fluid">
+          <div>
+              <img src={logo}/>
+          </div>
+            <CartWidget />
+            <a className="link-light" link="#">Productos</a>
+            <a className="link-light" link="#">Servicios</a>
+            <a className="link-light" link="#">Nosotros</a>
+          </div>
+        </nav>
+      </div></>
     
     
   )
