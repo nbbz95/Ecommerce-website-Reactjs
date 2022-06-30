@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "nombre":"Funko Keychain: Carl Jumpsuit - Minions (Movies)",
+        "stock":10,
+        "precio":2.299,
+        "descuento":0.8,
+        "descripcion":"Media",
+        "imagen":"/my-app/src/aseets/img-productos/funko1.jpeg"
+    },
+    {
+        "id":2,
+        "nombre":"Funko Keychain: Night King - Game Of Thrones (GOT)",
+        "stock":8,
+        "precio":2.299,
+        "descuento":0.5,
+        "descripcion":"Alta",
+        "imagen":"/my-app/src/aseets/img-productos/funko2.jpeg"
+    },
+    {
+        "id":3,
+        "nombre":"Funko Capitana Marvel With Box (444) - Captain Marvel (Marvel)",
+        "stock":5,
+        "precio":6.599,
+        "descuento":0.5,
+        "descripcion":"Especial",
+        "imagen":"/my-app/src/aseets/img-productos/funko3.jpeg"
+    },
+    {
+        "id":4,
+        "nombre":"Funko Finn Uniform (191) - Star Wars (Star Wars)",
+        "stock":10,
+        "precio":5.899,
+        "descuento":0.5,
+        "descripcion":"Funko",
+        "imagen":"/my-app/src/aseets/img-productos/funko4.jpeg"
+    },
+    {
+        "id":5,
+        "nombre":"Funko Keychain: Magneto - X-Men (Marvel)",
+        "stock":15,
+        "precio":2.299,
+        "descuento":0.10,
+        "descripcion":"Media",
+        "imagen":"/my-app/src/aseets/img-productos/funko5.jpeg"
+    },
+    {
+        "id":6,
+        "nombre":"Funko Keychain: Jon Snow Beyond The Wall - Game Of Thrones (TV)",
+        "stock":8,
+        "precio":2.299,
+        "descuento":0.5,
+        "descripcion":"Funko",
+        "imagen":"/my-app/src/aseets/img-productos/funko6.jpeg"
+    }
+]

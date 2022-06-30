@@ -35,7 +35,6 @@ return(
 <>
 <div className='card p-3 mb-2 bg-secondary text-white'>
 <div className='d-flex justify-content-center'>
-<p>Camisa lisa</p>
 </div>
 <div className='d-flex justify-content-center'>
     
