@@ -7,7 +7,7 @@ import Swal from 'sweetalert2'
 
 
 function Contador({ stock }){
-    const [num, setNum] = useState(0);
+    const [num, setNum] = useState(10);
 
     const sumar = () => {
         if(num < stock){
